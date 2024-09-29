@@ -5,7 +5,10 @@ from nm import decrypt_nm_file
 from tnl import decrypt_tnl_file
 from sks import decrypt_sks_file
 from ziv import decrypt_ziv_file
+from flask import Flask, request, render_template
 import os
+
+app = Flask(__name__)
 
 ALLOWED_USERS_FILE = 'allowuser.txt'
 
