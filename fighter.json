@@ -1,42 +1,45 @@
-[
-    {
-        "id": 1,
-        "title": "Chou",
-        "description": "Chou is a gifted martial artist...",
-        "logoUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
-        "images": [
-            {
-                "imageUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
-                "downloadUrl": "no_download_url"
-            },
-            {
-                "imageUrl": "https://i.ibb.co/Mn8PKmr/images.jpg",
-                "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/%E2%8C%AC%20ChouKOF.%E1%B4%B4%E1%B4%B0%20%E2%9E%A0%20Rep%20%E2%89%95%20BASIC%E3%80%90%E1%B4%84%E1%B4%87%E1%B4%98%E1%B4%9C%20%C9%A2%E1%B4%80%E1%B4%8D%E1%B4%87%CA%80%E3%80%91.zip"
-            },
-            {
-                "imageUrl": "https://i.ibb.co/b3sDmvV/images-1.jpg",
-                "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/chou_libra.zip"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "title": "Chou",
-        "description": "Chou is a gifted martial artist...",
-        "logoUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
-        "images": [
-            {
-                "imageUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
-                "downloadUrl": "no_download_url"
-            },
-            {
-                "imageUrl": "https://i.ibb.co/Mn8PKmr/images.jpg",
-                "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/%E2%8C%AC%20ChouKOF.%E1%B4%B4%E1%B4%B0%20%E2%9E%A0%20Rep%20%E2%89%95%20BASIC%E3%80%90%E1%B4%84%E1%B4%87%E1%B4%98%E1%B4%9C%20%C9%A2%E1%B4%80%E1%B4%8D%E1%B4%87%CA%80%E3%80%91.zip"
-            },
-            {
-                "imageUrl": "https://i.ibb.co/b3sDmvV/images-1.jpg",
-                "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/chou_libra.zip"
-            }
-        ]
-    }
-]
+{
+    "configVersion": "1.1",
+    "fighters": [
+        {
+            "id": 1,
+            "title": "Chou",
+            "description": "Chou is a gifted martial artist...",
+            "logoUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
+            "images": [
+                {
+                    "imageUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
+                    "downloadUrl": "no_download_url"
+                },
+                {
+                    "imageUrl": "https://i.ibb.co/Mn8PKmr/images.jpg",
+                    "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/%E2%8C%AC%20ChouKOF.%E1%B4%B4%E1%B4%B0%20%E2%9E%A0%20Rep%20%E2%89%95%20BASIC%E3%80%90%E1%B4%84%E1%B4%87%E1%B4%98%E1%B4%9C%20%C9%A2%E1%B4%80%E1%B4%8D%E1%B4%87%CA%80%E3%80%91.zip"
+                },
+                {
+                    "imageUrl": "https://i.ibb.co/b3sDmvV/images-1.jpg",
+                    "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/chou_libra.zip"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Chou",
+            "description": "Chou is a gifted martial artist...",
+            "logoUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
+            "images": [
+                {
+                    "imageUrl": "https://i.ibb.co/DPBbmBB/MLBB-Chou.jpg",
+                    "downloadUrl": "no_download_url"
+                },
+                {
+                    "imageUrl": "https://i.ibb.co/Mn8PKmr/images.jpg",
+                    "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/%E2%8C%AC%20ChouKOF.%E1%B4%B4%E1%B4%B0%20%E2%9E%A0%20Rep%20%E2%89%95%20BASIC%E3%80%90%E1%B4%84%E1%B4%87%E1%B4%98%E1%B4%9C%20%C9%A2%E1%B4%80%E1%B4%8D%E1%B4%87%CA%80%E3%80%91.zip"
+                },
+                {
+                    "imageUrl": "https://i.ibb.co/b3sDmvV/images-1.jpg",
+                    "downloadUrl": "https://github.com/Levitzy/Skin2023/raw/refs/heads/main/chou_libra.zip"
+                }
+            ]
+        }
+    ]
+}
